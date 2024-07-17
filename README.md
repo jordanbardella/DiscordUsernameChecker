@@ -44,7 +44,7 @@ To use the username checking tool:
 
 ## Configuration
 
-You can configure the application settings by write username in `username.txt`:
+You can configure the application settings by write username in `username.txt`
 
 ## Contributing
 
