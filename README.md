@@ -27,7 +27,7 @@ Discord Username Checker is a Python tool designed to verify Discord usernames w
 To install Discord Username Checker, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/your-username/DiscordUsernameChecker.git
+    git clone https://github.com/jordanbardella/DiscordUsernameChecker.git
 
 2. Navigate to the project directory:
     cd DiscordUsernameChecker
