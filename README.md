@@ -9,7 +9,6 @@ Python tool to check Discord usernames without rate limits.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -45,16 +44,6 @@ To use the username checking tool:
 ## Configuration
 
 You can configure the application settings by write username in `username.txt`
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or find bugs, feel free to open an issue or pull request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
