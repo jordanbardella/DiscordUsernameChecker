@@ -2,15 +2,6 @@
 
 Python tool to check Discord usernames without rate limits.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [License](#license)
-
 ## Overview
 
 Discord Username Checker is a Python tool designed to verify Discord usernames without being restricted by rate limits.
