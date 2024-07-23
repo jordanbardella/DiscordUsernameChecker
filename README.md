@@ -27,15 +27,15 @@ To install Discord Username Checker, follow these steps:
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/jordanbardella/DiscordUsernameChecker.git
+git clone https://github.com/jordanbardella/DiscordUsernameChecker.git
 ```
 2. Navigate to the project directory:
 ```bash
-    cd DiscordUsernameChecker
+cd DiscordUsernameChecker
 ```
 3. Install the required dependencies:
 ```bash
-    pip install requests
+pip install requests
 ```
 ## Usage
 
@@ -43,7 +43,7 @@ To use the username checking tool:
 
 1. Run the application:
 ```bash
-    python checker.py
+python checker.py
 ```
 ## Configuration
 
